@@ -23,8 +23,13 @@ This is a workshop on web development using react js
 
 [Google](https://www.google.com/)
 
-! [TajMahal](https://images.theconversation.com/files/228846/original/file-20180723-189310-1ymcybu.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip)
+![TajMahal](https://images.theconversation.com/files/228846/original/file-20180723-189310-1ymcybu.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip)
 
 Name | Number
 -----|--------
 Mohan | 8367077895
+
+```python
+   def python():
+   print("Hai")
+```
